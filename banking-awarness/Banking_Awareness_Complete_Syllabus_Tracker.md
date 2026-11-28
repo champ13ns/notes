@@ -1,7 +1,7 @@
 # IBPS RRB Scale II IT Officer — Banking / Financial Awareness Syllabus Tracker
 
 **Exam target:** IBPS RRB Scale II IT Officer — 20 December 2026  
-**Last updated:** 26 November 2026  
+**Last updated:** 28 November 2026  
 **Repository folder:** [banking-awarness](https://github.com/champ13ns/notes/tree/main/banking-awarness)
 
 > **Important:** IBPS does not publish a single exhaustive, fixed topic-wise Banking/Financial Awareness syllabus that guarantees every question. This is our exam-oriented coverage tracker built around recurring bank-exam topics, financial awareness, banking current affairs, and IT/banking-tech developments. Current figures, circulars, appointments and schemes must be refreshed close to the exam.
@@ -18,6 +18,7 @@
 ### Status key
 - [x] Completed — notes and practice prepared
 - [ ] Pending — to be taught, practiced and added to GitHub
+- [📝] Notes uploaded — user study and practice pending
 
 ---
 
@@ -101,7 +102,7 @@
 
 ## Remaining core topics
 
-## Day 8 — Indian Financial Institutions & Regulators [PENDING]
+## Day 8 — Indian Financial Institutions & Regulators [NOTES UPLOADED — STUDY PENDING]
 - RBI: role, regulation and supervision (revision)
 - NABARD: rural/agriculture finance, refinance, development and inspection
 - SIDBI: MSME finance and development
@@ -114,6 +115,8 @@
 - SEBI, IRDAI and PFRDA: regulatory domains
 - FSDC, FIU-IND and relevant financial ecosystem bodies
 - Institution: establishment year, HQ, purpose, parent/ministry/regulatory role — **only verified exam-relevant facts**
+
+**Notes:** [Day 8 — Indian Financial Institutions & Regulators](https://github.com/champ13ns/notes/blob/main/banking-awarness/Day_8_Complete_Financial_Awareness_Notes.md)
 
 ## Day 9 — Financial Inclusion, Priority Sector & Government Schemes [PENDING]
 - Financial inclusion meaning, pillars and delivery channels
@@ -259,7 +262,7 @@ Use a month-wise structure and retain only exam-relevant facts; avoid random new
 | 5 | Basel, Capital & Risk | Completed |
 | 6 | Digital Banking & Payments | Completed |
 | 7 | Financial Markets | Completed |
-| 8 | Financial Institutions & Regulators | Pending |
+| 8 | Financial Institutions & Regulators | Notes uploaded — study pending |
 | 9 | Financial Inclusion & Govt Schemes | Pending |
 | 10 | Insurance & Pension | Pending |
 | 11 | Indian Economy Basics | Pending |
